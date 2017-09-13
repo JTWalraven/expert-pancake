@@ -1,0 +1,1 @@
+killall -u user_name -HUP
